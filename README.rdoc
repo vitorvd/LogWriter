@@ -1,0 +1,4 @@
+*LogWriter*
+
+- Projeto feito com fins de aprendizado sobre a linguagem Kotlin, sendo esse o meu primeiro projeto. 
+- O sistema consiste em registrar em um arquivo de texto (.txt) dados de pessoas fictícias (nome, idade e profissão).
